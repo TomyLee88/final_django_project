@@ -1,6 +1,5 @@
-# final_django_project
 Event Network Project
-This is a event networking web application developed using Django.
+This is a social networking web application developed using Django.
 
 Features
 User registration and authentication
